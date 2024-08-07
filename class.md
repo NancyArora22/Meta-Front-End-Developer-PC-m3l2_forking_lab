@@ -1,2 +1,2 @@
 Nancy
-Version Control by Meta|Coursera
+VC by M |Coursera
